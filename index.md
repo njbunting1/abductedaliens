@@ -1,4 +1,4 @@
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.travelmoneyoz.com%2Fblog%2Fnews-other%2Fimpact-alien-invasion-economy&psig=AOvVaw3OyHBW5i98P2siZatcgd_9&ust=1631470733990000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjezrnE9_ICFQAAAAAdAAAAABAL)
+![Image](https://www.travelmoneyoz.com/sites/v1.travelmoneyoz.com/files/fcl-blog/mic_TMG_Alien-Blog_Mobile_640x480_v1.jpg)
 
 ## Abducted Aliens
 
