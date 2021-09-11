@@ -1,6 +1,6 @@
 ## Abducted Aliens
 
-You can use the [editor on GitHub](https://github.com/njbunting1/abductedaliens/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aliens have been abducted! They are now on Earth doing their best to fit into society. You'll see Police, Firemen, and Special Characters.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
