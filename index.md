@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Abducted Aliens
 
 You can use the [editor on GitHub](https://github.com/njbunting1/abductedaliens/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
