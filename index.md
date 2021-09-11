@@ -13,32 +13,6 @@ Aliens have been abducted! They are now on Earth doing their best to fit into so
 
 ![Image](https://document-export.canva.com/LIGuI/DAEpvQLIGuI/6/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20210911%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210911T175546Z&X-Amz-Expires=17125&X-Amz-Signature=6cab2153467ba1cbcaa32e57293242c8eabd0cad1c6a828c600235a87a2887ff&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2011%20Sep%202021%2022%3A41%3A11%20GMT)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/njbunting1/abductedaliens/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+abductedaliens@gmail.com
