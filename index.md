@@ -6,6 +6,7 @@ Aliens have been abducted! They are now on Earth doing their best to fit into so
 
 - 10,000 unique aliens with different traits and colors; 1/1.
 - Originals .01 ETH, Specials .05 ETH, and Rares are 1 ETH.
+- Visit opensea.io/collection/abducted-aliens to purchase
 - Twitter page @abductedaliens1 Follow Us!
 - Roadmap with project details
 
