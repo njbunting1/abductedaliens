@@ -2,9 +2,12 @@
 
 ## Abducted Aliens
 
-Aliens have been abducted! They are now on Earth doing their best to fit into society. You'll see Police, Firemen, and Special Characters.
+Aliens have been abducted! They are now on Earth doing their best to fit into society. You'll see Cowboys/Cowgirls, Laser Eyes with Headphones, Baseball cap with VR headsets, and originals roaming the streets on planet Earth. They have taken over Area 51 and using it as their homebase to conquer the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 10,000 unique aliens with different traits and colors; 1/1.
+- Originals .01 ETH, Specials .05 ETH, and Rares are 1 ETH.
+- Twitter page @abductedaliens1 Follow Us!
+- Roadmap with project details
 
 ### Markdown
 
