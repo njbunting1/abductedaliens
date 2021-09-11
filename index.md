@@ -2,13 +2,15 @@
 
 ## Abducted Aliens
 
-Aliens have been abducted! They are now on Earth doing their best to fit into society. You'll see Cowboys/Cowgirls, Laser Eyes with Headphones, Baseball cap with VR headsets, and originals roaming the streets on planet Earth. They have taken over Area 51 and using it as their homebase to conquer the world.
+Aliens have been abducted! They are now on Earth doing their best to fit into society. You'll see Cowboys/Cowgirls, Laser Eyes with Headphones, Baseball Cap with VR headsets, and originals roaming the streets on planet Earth. They have taken over Area 51 and using it as their homebase to conquer the world.
 
-- 10,000 unique aliens with different traits and colors; 1/1.
+- 5,151 unique aliens with different traits and colors; 1/1.
 - Originals .01 ETH, Specials .05 ETH, and Rares are 1 ETH.
 - Visit [https://www.opensea.io/collection/abducted-aliens](url) to purchase
 - Twitter page @abductedaliens1 Follow Us!
 - Roadmap with project details
+
+![Image](C:/Users/Jenda/downloads/roadmap.png)
 
 ### Markdown
 
