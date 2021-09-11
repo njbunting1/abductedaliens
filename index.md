@@ -10,7 +10,7 @@ Aliens have been abducted! They are now on Earth doing their best to fit into so
 - Twitter page @abductedaliens1 Follow Us!
 - Roadmap with project details
 
-![Image](C:/Users/Jenda/downloads/roadmap.png)
+![Image](C:\Users\Jenda\downloads\roadmap.png)
 
 ### Markdown
 
