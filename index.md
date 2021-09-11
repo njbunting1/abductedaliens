@@ -1,4 +1,4 @@
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ijc23DNkvxEn3HJXIlO63VQLs8meAwH13w&usqp=CAU)
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5zOXLSNYgtcZVx-5vR6WxZRfAjdGGnt22QQ&usqp=CAU)
 
 ## Abducted Aliens
 
