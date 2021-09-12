@@ -6,6 +6,7 @@ Aliens have been abducted! They are now on Earth doing their best to fit into so
 
 - 5,151 unique aliens with different traits and colors; 1/1
 - Visit <https://opensea.io/collection/abducted-aliens> to purchase
+- <a href="https://www.google.com/" style="color: green;
 - Twitter page <https://www.twitter.com/abductedaliens1> Follow Us!
 - Roadmap with project details
 
