@@ -15,4 +15,4 @@ Aliens have been abducted! They are now on Earth doing their best to fit into so
 
 ### Support or Contact
 
-[mailto](mailto:abductedaliens@gmail.com)
+[mailto:abductedaliens@gmail.com](mailto:abductedaliens@gmail.com)
